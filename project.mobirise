@@ -1,9 +1,9 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Mutiny Audio",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 55,
+    "uniqCompNum": 56,
     "versionPublish": "4.3.2",
     "theme": {
       "name": "mobirise4",
@@ -39,14 +39,16 @@
         "#080808",
         "#0a0909"
       ]
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/2015-ma-logo-smaller-128x80.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Mutiny Audio",
+        "meta_descr": "Creativity via technology. \nMusic, mixes, designs by Mutiny Audio.\n\n\n\n\n\n\n\n\n\nMutinyAudio, producer, DJ mix, podcast, edm, dubstep, trap, dnb, drum & bass, glitch, electro, drumstep, jungle, moombahton, twerk,  electronic, 8bit, DJ, bass, party, underground, club, rave, electro, hiphop, hip hop, electro, triphop, chill, chillout, music, anonymous, ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
