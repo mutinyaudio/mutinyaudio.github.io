@@ -1354,7 +1354,7 @@ body {
   background-color: #efefef;
 }
 .cid-qxrzWoV73q SPAN {
-  color: #232323;
+  color: #414141;
 }
 .cid-qxHOTRwgXq {
   padding-top: 75px;
@@ -1395,7 +1395,7 @@ body {
   color: #414141;
 }
 .cid-qxr47Uqh7u SPAN {
-  color: #404040;
+  color: #414141;
 }
 .cid-qxqX0sFz5K {
   padding-top: 0px;
@@ -1584,10 +1584,13 @@ body {
   display: block;
   text-align: center;
 }
+.cid-qxr1lVaCGW H2 {
+  color: #414141;
+}
 .cid-qxr2Hi4eTf {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #232323;
+  background-color: #212121;
 }
 .cid-qxr2Hi4eTf .media-container-row {
   flex-direction: column;
