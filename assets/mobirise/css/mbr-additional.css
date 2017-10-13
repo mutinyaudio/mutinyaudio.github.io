@@ -143,7 +143,7 @@ body {
   background-color: #879a9f !important;
 }
 .bg-danger {
-  background-color: #b1a374 !important;
+  background-color: #ffffff !important;
 }
 .btn-primary,
 .btn-primary:active {
@@ -247,8 +247,8 @@ body {
 }
 .btn-danger,
 .btn-danger:active {
-  background-color: #b1a374;
-  border-color: #b1a374;
+  background-color: #ffffff;
+  border-color: #ffffff;
   color: #ffffff;
 }
 .btn-danger:hover,
@@ -256,14 +256,14 @@ body {
 .btn-danger.focus,
 .btn-danger.active {
   color: #ffffff;
-  background-color: #8b7d4e;
-  border-color: #8b7d4e;
+  background-color: #d4d4d4;
+  border-color: #d4d4d4;
 }
 .btn-danger.disabled,
 .btn-danger:disabled {
   color: #ffffff !important;
-  background-color: #8b7d4e !important;
-  border-color: #8b7d4e !important;
+  background-color: #d4d4d4 !important;
+  border-color: #d4d4d4 !important;
 }
 .btn-white {
   color: #333333 !important;
@@ -411,22 +411,22 @@ body {
 .btn-danger-outline,
 .btn-danger-outline:active {
   background: none;
-  border-color: #7a6e45;
-  color: #7a6e45;
+  border-color: #ffffff;
+  color: #ffffff;
 }
 .btn-danger-outline:hover,
 .btn-danger-outline:focus,
 .btn-danger-outline.focus,
 .btn-danger-outline.active {
   color: #ffffff;
-  background-color: #b1a374;
-  border-color: #b1a374;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 .btn-danger-outline.disabled,
 .btn-danger-outline:disabled {
   color: #ffffff !important;
-  background-color: #b1a374 !important;
-  border-color: #b1a374 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-black-outline,
 .btn-black-outline:active {
@@ -478,7 +478,7 @@ body {
   color: #879a9f !important;
 }
 .text-danger {
-  color: #b1a374 !important;
+  color: #ffffff !important;
 }
 .text-white {
   color: #ffffff !important;
@@ -508,7 +508,7 @@ a.text-warning:focus {
 }
 a.text-danger:hover,
 a.text-danger:focus {
-  color: #7a6e45 !important;
+  color: #cccccc !important;
 }
 a.text-white:hover,
 a.text-white:focus {
@@ -528,7 +528,7 @@ a.text-black:focus {
   background-color: #879a9f;
 }
 .alert-danger {
-  background-color: #b1a374;
+  background-color: #ffffff;
 }
 .mbr-section-btn a.btn:not(.btn-form) {
   border-radius: 100px;
@@ -578,7 +578,7 @@ a:hover {
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
-  color: #dfd9c6;
+  color: #ffffff;
 }
 /* Scroll to top button*/
 #scrollToTop a {
@@ -1346,12 +1346,12 @@ body {
   text-align: center;
 }
 .cid-qxlifDMnOx SPAN {
-  color: #efefef;
+  color: #e9ebee;
 }
 .cid-qxrzWoV73q {
   padding-top: 75px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #e9ebee;
 }
 .cid-qxrzWoV73q SPAN {
   color: #414141;
@@ -1379,17 +1379,17 @@ body {
 }
 .cid-qxHOTRwgXq H1 {
   text-align: center;
-  color: #efefef;
+  color: #e9ebee;
 }
 .cid-qxHOTRwgXq .mbr-text,
 .cid-qxHOTRwgXq .mbr-section-btn {
   text-align: center;
-  color: #efefef;
+  color: #ffffff;
 }
 .cid-qxr47Uqh7u {
   padding-top: 75px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #e9ebee;
 }
 .cid-qxr47Uqh7u H2 {
   color: #414141;
@@ -1400,7 +1400,7 @@ body {
 .cid-qxqX0sFz5K {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-color: #e9ebee;
 }
 .cid-qxqX0sFz5K .card-img a {
   display: block;
@@ -1446,7 +1446,7 @@ body {
 .cid-qxrucw4RqT {
   padding-top: 15px;
   padding-bottom: 45px;
-  background-color: #efefef;
+  background-color: #e9ebee;
 }
 .cid-qxqy20phT1 {
   padding-top: 75px;
@@ -1454,7 +1454,7 @@ body {
   background-color: #2d2b2b;
 }
 .cid-qxqy20phT1 SPAN {
-  color: #efefef;
+  color: #e9ebee;
 }
 .cid-qxqy20phT1 .mbr-section-subtitle {
   color: #ffffff;
@@ -1466,7 +1466,7 @@ body {
 }
 .cid-qxlxmDdkuC .mbr-iconfont-social {
   font-size: 32px;
-  color: #efefef;
+  color: #e9ebee;
 }
 .cid-qxlxmDdkuC .social-list a:focus {
   text-decoration: none;
@@ -1560,7 +1560,7 @@ body {
 .cid-qxr1lVaCGW {
   padding-top: 75px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #e9ebee;
 }
 .cid-qxr1lVaCGW .title {
   margin-bottom: 2rem;
@@ -1646,7 +1646,7 @@ body {
   word-break: break-word;
 }
 .cid-qxr2Hi4eTf .media-container-row .mbr-text {
-  color: #cccccc;
+  color: #767676;
 }
 .cid-qxlifDfgZv .navbar {
   padding: .5rem 0;
@@ -1804,7 +1804,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #efefef;
+  background-color: #e9ebee;
 }
 .cid-qxlifDfgZv button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
